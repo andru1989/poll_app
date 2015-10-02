@@ -60,3 +60,4 @@ group :test do
   gem 'launchy'
 end
 
+gem 'valid_email'
